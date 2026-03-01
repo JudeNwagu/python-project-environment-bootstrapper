@@ -1,3 +1,7 @@
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![Shell Script](https://img.shields.io/badge/shell-bash-lightgrey)
+
+
 # Python Project Environment Bootstrapper
 
 ## Overview
@@ -12,15 +16,9 @@ The goal: eliminate repetitive setup work through structured, idempotent Bash au
 
 In many engineering teams, project setup is manual and inconsistent:
 
-Virtual environments are created differently across machines
+Virtual environments are created differently across machines, Pip versions are outdated .gitignore files are missing or inconsistent 
 
-Pip versions are outdated
-
-.gitignore files are missing or inconsistent
-
-Required dependencies are installed manually
-
-No structured logging of setup steps
+Required dependencies are installed manually No structured logging of setup steps
 
 This leads to:
 
@@ -172,4 +170,5 @@ python-project-environment-bootstrapper/
 ## Author
 
 Jude Nwagu
+
 Data Professional | Automation & Analytics Engineering
