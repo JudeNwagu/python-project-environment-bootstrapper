@@ -127,6 +127,7 @@ Setup reproducibility record
 ## Project Structure
 
 python-project-environment-bootstrapper/
+
 │
 ├── setup.sh
 ├── setup.log
