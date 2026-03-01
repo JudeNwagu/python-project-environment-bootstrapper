@@ -126,13 +126,15 @@ Setup reproducibility record
 
 ## Project Structure
 
-python-project-environment-bootstrapper/
 
-│
+```text
+python-project-environment-bootstrapper/
 ├── setup.sh
 ├── setup.log
 ├── .gitignore
 └── README.md
+```
+
 
 ## Engineering Design Principles Applied
 
