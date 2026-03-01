@@ -77,6 +77,7 @@ The script is idempotent running it multiple times does not duplicate or corrupt
 To install missing components on Ubuntu:
 
 sudo apt update
+
 sudo apt install python3 python3-venv python3-pip git
 
 
